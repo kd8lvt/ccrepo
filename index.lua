@@ -4,25 +4,19 @@ files = {
         ["computer"] = {
             ["server"] = {
                 ["main_script"] = "computer/server.lua",
-                ["dependencies"] = {
-
-                },
+                ["dependencies"] = {},
                 ["has_dependencies"] = false
             }
             ["terminal"] = {
                 ["main_script"] = "computer/terminal.lua",
-                ["dependencies"] = {
-
-                },
+                ["dependencies"] = {},
                 ["has_dependencies"] = false
             }
         }
         ["turtle"] = {
             ["enderchest_manager"] = {
                 ["main_script"] = "turtle/enderchest_manager.lua",
-                ["dependencies"] = {
-
-                },
+                ["dependencies"] = {},
                 ["has_dependencies"] = false
             }
         },
