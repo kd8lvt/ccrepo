@@ -1,6 +1,6 @@
 files = {
     ["clay_arena"] = {
-        ["base_url"] = "http://ccrepo.kd8lvt.com/clay_arena/",
+        ["base_url"] = "https://raw.githubusercontent.com/kd8lvt/ccrepo/main/clay_arena/",
         ["computer"] = {
             ["server"] = {
                 ["main_script"] = "computer/server.lua",
