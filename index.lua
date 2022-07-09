@@ -6,7 +6,7 @@ files = {
                 ["main_script"] = "computer/server.lua",
                 ["dependencies"] = {},
                 ["has_dependencies"] = false
-            }
+            },
             ["terminal"] = {
                 ["main_script"] = "computer/terminal.lua",
                 ["dependencies"] = {},
